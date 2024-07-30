@@ -4,7 +4,7 @@
 - I’m open to collaborate on Academic Research and Industrial Works
 - Ask me about anything thats related to my research interests
 - How to reach me: nirjhar@cmi.ac.in
-- Check out my website <a href="https://combinoob.github.io/"> website </a> for more details
+- Check out <a href="https://combinoob.github.io/">my website </a> for more details
 
 
 
