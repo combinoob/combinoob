@@ -10,4 +10,3 @@
 
 
 <img align="left" width="47%" height="40%" src="https://github-readme-stats.vercel.app/api?username=combinoob&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img align="left" width="46%" height="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=combinoob&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
