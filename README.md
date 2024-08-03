@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Nirjhar.
 
 - My research interests lie in machine learning (both theory and applied), big data, computer vision, computational biology and time series analysis.
-- I’m open to collaborate on Academic Research and Industrial Works
-- Ask me about anything that is related to my research interests
+- I’m open to collaborate on Academic Research and Industrial Works.
+- Ask me about anything that is related to my research interests.
 - How to reach me: nirjhar@cmi.ac.in
-- Check out <a href="https://combinoob.github.io/">my website </a> for more details
+- Check out <a href="https://combinoob.github.io/">my website </a> for more details.
 
 
 
